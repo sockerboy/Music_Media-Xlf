@@ -1,0 +1,17 @@
+# python models cache
+__pycache__/
+
+.vscode
+
+# build
+build/
+
+# build
+dist/
+
+# Music_Player.egg-info
+Music_Player.egg-info/
+
+
+# *.log
+MusicPlayer/logger/running_log.log
